@@ -1,0 +1,11 @@
+Table-Number,Location,Number-of-seats,Reserving-Name,Reservation-Date,Reservation-time,End-time
+1,window,2,mohit raina,19-02-2021,12:00,03:00
+2,centre,3,,,,
+3,door,5,,,,
+4,window,2,vibha,27-02-2021,02:30,07:30
+5,door,5,manoj,08-03-2021,01:15,04:15
+6,centre,3,,,,
+7,window,3,alka,22-02-2021,12:10,06:30
+8,centre,2,,,,
+9,stage,4,,,,
+10,window,2,shakuntala,07-03-2021,05:00,08:00
